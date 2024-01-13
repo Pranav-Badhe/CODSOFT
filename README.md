@@ -1,5 +1,6 @@
 # CodSoft
-CodSoft Internship tasks
+CodSoft Virtual Internship tasks
+
 Domain - Java Programming
 
 Tasks:-
